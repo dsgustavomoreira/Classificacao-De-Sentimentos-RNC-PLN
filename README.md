@@ -1,1 +1,1 @@
-# Classificacao-De-Sentimentos-RNC-PLN
+# Classificação de Sentimentos - RNC - PLN
